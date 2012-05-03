@@ -34,6 +34,13 @@
 
 **`get()`** - returns the number of seconds as a `float` since the `cTimer` library was `import`ed.
 
+## Installation
+
+Clone the repository into a new folder. Run the following commands (you *may* need to `sudo` the second one):
+
+	python setup.py build
+	python setup.py install
+
 ## Notes
 
 This is a lightweight extension and has not been thouroughly tested on all combinations of platforms and Python versions.
